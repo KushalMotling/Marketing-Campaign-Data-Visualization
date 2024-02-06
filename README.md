@@ -1,6 +1,8 @@
 # Marketing-Campaign-Data-Visualization
 Data Visualization of Marketing Campaign to improve data-driven decision-making by creating engaging and informative dashboards with Power BI. This project focuses on leveraging Python library such as Pandas for data manipulation. It provides insights on Campaign Performance, Audience Segmentation and ROI analysis.
 
+[Click Here for Dashboard](https://app.powerbi.com/reportEmbed?reportId=c0bf763d-46a1-4ce8-81b0-f756dce83be4&autoAuth=true&ctid=321cfcff-5dd5-400b-88d5-510ac28d151f)
+
 - Problem Statement:
   1.	Background: Due to age old marketing techniques and much data not being available, creating a practical solution can be hard. Also, having unnecessary information fields in the dataset might make it tough to successfully market the product.
    
